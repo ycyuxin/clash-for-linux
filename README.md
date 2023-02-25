@@ -4,8 +4,6 @@
 
 主要是为了解决我们在服务器上下载GitHub等一些国外资源速度慢的问题。
 
-
-
 # 使用教程
 
 ### 下载项目
@@ -13,7 +11,7 @@
 下载项目
 
 ```bash
-$ git clone https://github.com/wanhebin/clash-for-linux.git
+$ git clone https://github.com/ycyuxin/clash-for-linux.git
 ```
 
 进入到项目目录，编辑`start.sh`脚本文件，修改变量`URL`的值。
@@ -22,8 +20,6 @@ $ git clone https://github.com/wanhebin/clash-for-linux.git
 $ cd clash-for-linux
 $ vim start.sh
 ```
-
-
 
 ### 启动程序
 
